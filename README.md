@@ -10,7 +10,7 @@ For more information, see my <a href="https://digi.ninja/projects/authlab.php">p
 
 First you will need Go setup on your machine, I'll leave that up to you to work through as there are plenty of resources out there to help with that.
 
-Next choose where to install the app, I'm going to install it in ~/apps, but the location is up to you and as long as you remember it, it doesn't matter. 
+Next choose where to install the app, I'm going to install it in ~/apps, but the location is up to you and as long as you remember it, it doesn't matter.
 
 Check out my code:
 
